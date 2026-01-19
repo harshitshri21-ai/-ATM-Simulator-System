@@ -1,1 +1,2 @@
 # -ATM-Simulator-System
+The Bank Account Management System is an Internet-based banking application that allows customers to manage their bank accounts online. It enables users to create accounts, deposit and withdraw money, and view account details from anywhere using a computer or laptop. This system converts traditional banking into a digital platform, providing secure, efficient, and 24×7 banking services while reducing manual work and improving overall bank management.
